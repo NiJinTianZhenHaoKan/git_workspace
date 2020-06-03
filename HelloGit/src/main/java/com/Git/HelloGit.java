@@ -13,5 +13,6 @@ public class HelloGit {
         System.out.println("master add");
         System.out.println("dev add");
         System.out.println("在线更新");
+        System.out.println("克隆者更改");
     }
 }
